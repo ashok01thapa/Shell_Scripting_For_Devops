@@ -1,4 +1,4 @@
-# 🐚 Shell Scripting in One Shot – Comprehensive Guide for DevOps
+# Shell Scripting in One Shot – Comprehensive Guide for DevOps
 
 ![Shell Scripting](https://img.shields.io/badge/Shell-Scripting-brightgreen?style=for-the-badge&logo=gnu-bash)
 ![DevOps](https://img.shields.io/badge/DevOps-Automation-blue?style=for-the-badge&logo=linux)
