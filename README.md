@@ -6,7 +6,7 @@
 
 > A complete, hands-on guide to Shell Scripting for DevOps Engineers — from basics to real-world automation projects.
 
----
+--
 
 ## 📚 Table of Contents
 
