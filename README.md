@@ -6,7 +6,6 @@
 
 A hands-on, day-by-day Shell Scripting learning journey for DevOps Engineers — from writing your very first script to building real-world automation projects.
 
->  **Repository:** [ashok01thapa/Shell_Scripting_For_Devops](https://github.com/ashok01thapa/Shell_Scripting_For_Devops)
 
 ---
 
