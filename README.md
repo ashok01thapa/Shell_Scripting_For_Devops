@@ -8,7 +8,7 @@
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 1. [Introduction to Shell and Environment Setup](#1-introduction-to-shell-and-environment-setup)
 2. [Basic Scripting Skills](#2-basic-scripting-skills)
@@ -99,16 +99,16 @@
 
 | # | Project | Description |
 |---|---------|-------------|
-| 01 | 📋 **Automated Log Monitoring & Alert System** | Parses logs, filters errors, and sends alerts via email or Slack |
-| 02 | 💾 **Infrastructure Backup Automation** | Automates backup of critical files, databases, or VM snapshots |
-| 03 | 🔄 **CI/CD Pipeline Helper** | Automates repository cloning, testing, and deployment tasks |
-| 04 | 🖥️ **System Health Check Script** | Checks CPU, Memory, Disk Usage, Running Services, and Network Status |
-| 05 | ☸️ **Kubernetes Resource Monitor** | Automates collection of Kubernetes cluster metrics for monitoring |
-| 06 | ☁️ **AWS Instance Management Script** | Starts/stops AWS EC2 instances on demand or based on schedule |
+| 01 |  **Automated Log Monitoring & Alert System** | Parses logs, filters errors, and sends alerts via email or Slack |
+| 02 |  **Infrastructure Backup Automation** | Automates backup of critical files, databases, or VM snapshots |
+| 03 |  **CI/CD Pipeline Helper** | Automates repository cloning, testing, and deployment tasks |
+| 04 |  **System Health Check Script** | Checks CPU, Memory, Disk Usage, Running Services, and Network Status |
+| 05 |  **Kubernetes Resource Monitor** | Automates collection of Kubernetes cluster metrics for monitoring |
+| 06 |  **AWS Instance Management Script** | Starts/stops AWS EC2 instances on demand or based on schedule |
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ```bash
 # Clone the repository
@@ -126,7 +126,7 @@ chmod +x script.sh
 
 ---
 
-##  Prerequisites
+## Prerequisites
 
 - A Linux/macOS system or WSL on Windows
 - Bash version 4.0+
@@ -140,7 +140,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ---
 
-##  License
+## License
 
 This project is licensed under the MIT License.
 
