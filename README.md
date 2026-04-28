@@ -4,7 +4,7 @@
 ![DevOps](https://img.shields.io/badge/DevOps-Automation-blue?style=for-the-badge&logo=linux)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
-> A complete, hands-on guide to Shell Scripting for DevOps Engineers — from basics to real-world automation projects.
+A complete, hands-on guide to Shell Scripting for DevOps Engineers — from basics to real-world automation projects.
 
 ---
 
