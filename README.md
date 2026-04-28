@@ -4,16 +4,6 @@
 ![DevOps](https://img.shields.io/badge/DevOps-Automation-blue?style=for-the-badge&logo=linux)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
-A complete, hands-on guide to Shell Scripting for DevOps Engineers — from basics to real-world automation projects.
-
----
-
-# 🐚 Shell Scripting For DevOps
-
-![Shell Scripting](https://img.shields.io/badge/Shell-Scripting-brightgreen?style=for-the-badge&logo=gnu-bash)
-![DevOps](https://img.shields.io/badge/DevOps-Automation-blue?style=for-the-badge&logo=linux)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
-
 A hands-on, day-by-day Shell Scripting learning journey for DevOps Engineers — from writing your very first script to building real-world automation projects.
 
 >  **Repository:** [ashok01thapa/Shell_Scripting_For_Devops](https://github.com/ashok01thapa/Shell_Scripting_For_Devops)
