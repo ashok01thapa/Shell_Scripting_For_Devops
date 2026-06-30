@@ -212,6 +212,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> ⭐ If this helped you, give the repo a star and share it with fellow DevOps learners! under the MIT License.
+> ⭐ If this helped you, give the repo a star and share it with fellow DevOps learners!
 
 
